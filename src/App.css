@@ -23,7 +23,7 @@ h1 {
 
 #root {
 	padding: 0 20px;
-	width: 100vw;
+	width: 100%;
 }
 
 .timeline-container {
